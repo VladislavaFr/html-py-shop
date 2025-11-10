@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "html-py-shop"
+version = "0.1.0"
+description = "Simple web app for homework"
+authors = ["VladislavaFn vladislava.fridmann1@aol.com"]
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
